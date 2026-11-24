@@ -2,7 +2,7 @@
 
 Signed builds of [Windrow](https://wscm.eu/nikoristar/windows-for-mac), a native macOS panel with a separate row for each window.
 
-**[Download the latest version](https://github.com/nikomistar/windrow-updates/releases/latest)**: get `Windrow-…-mac-universal.zip` under Assets.
+**[Download the latest version](https://github.com/nikomistar/windrow-updates/releases/latest/download/Windrow-mac-universal.zip)** · [Release notes](https://github.com/nikomistar/windrow-updates/releases/latest)
 
 macOS 14 Sonoma or newer · Apple Silicon and Intel · Free
 
@@ -15,4 +15,4 @@ macOS 14 Sonoma or newer · Apple Silicon and Intel · Free
 
 Later versions install from inside the app: **… → Check for Updates…**
 
-This repository holds release files and the update feed only.
+This repository holds release files and the update feed only. Found a problem? [Report it here](https://github.com/nikomistar/windrow-updates/issues) with your Windrow and macOS versions.
